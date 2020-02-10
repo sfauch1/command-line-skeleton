@@ -1,0 +1,17 @@
+### Bandit
+
+> Bandit is a tool designed to find common security issues in Python code. To do this, Bandit processes each file, builds an AST from it, and runs appropriate plugins against the AST nodes. Once Bandit has finished scanning all the files, it generates a report.
+
+[https://bandit.readthedocs.io/en/latest/](https://bandit.readthedocs.io/en/latest/)
+
+#### Installing Bandit
+
+```
+pip install bandit
+```
+
+#### Running Bandit
+
+```
+bandit -r path/to/code/
+```

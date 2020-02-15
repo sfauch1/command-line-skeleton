@@ -7,6 +7,3 @@
 
 ##### Python Application Layouts: A Reference
 [https://realpython.com/python-application-layouts/#command-line-application-layouts](https://realpython.com/python-application-layouts/#command-line-application-layouts)
-
-
-
